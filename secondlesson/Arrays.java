@@ -1,5 +1,5 @@
-package secondlesson_arrays;
-public class Secondlesson {
+package secondlesson;
+public class Arrays {
 public static void main (String [] args) {
 	String [] stringsArray;
 	stringsArray = new String[7];
