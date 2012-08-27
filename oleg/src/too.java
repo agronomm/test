@@ -1,4 +1,4 @@
-package onetest;
+
 
 //класс всегда именуется с большой буквы(ВСЕГДА)
 public class too {
